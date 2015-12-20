@@ -1,0 +1,28 @@
+name: Rick Seedman
+favicon: null
+layout_spectrum: 0.07650454924441874
+typography_spectrum: 0.978245667880401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.41850646142847836
+  lightness: 0.5745640441309661
+  saturation: 0.9500410181935877
+  rhythmicContrast: 0.012070466531440616
+purpose: []
